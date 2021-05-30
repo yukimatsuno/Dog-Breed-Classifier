@@ -8,4 +8,4 @@ In this project, I build a convolutional neural network (CNN) that can identify 
 The code is written in Python 3 and Keras with Tensorflow backend all presented in Jupyter Notebook.
 
 # Below paths not added due to high file size
-/dogImages, /bottleneck_features, /lfw, /dogImages
+/bottleneck_features, /lfw, /dogImages
